@@ -1,0 +1,11 @@
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\bin\Debug\netcoreapp2.0\NM_Challenge_Endpoint.deps.json
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\bin\Debug\netcoreapp2.0\NM_Challenge_Endpoint.runtimeconfig.json
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\bin\Debug\netcoreapp2.0\NM_Challenge_Endpoint.runtimeconfig.dev.json
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\bin\Debug\netcoreapp2.0\NM_Challenge_Endpoint.dll
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\bin\Debug\netcoreapp2.0\NM_Challenge_Endpoint.pdb
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\obj\Debug\netcoreapp2.0\NM_Challenge_Endpoint.csprojAssemblyReference.cache
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\obj\Debug\netcoreapp2.0\NM_Challenge_Endpoint.csproj.CoreCompileInputs.cache
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\obj\Debug\netcoreapp2.0\NM_Challenge_Endpoint.AssemblyInfoInputs.cache
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\obj\Debug\netcoreapp2.0\NM_Challenge_Endpoint.AssemblyInfo.cs
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\obj\Debug\netcoreapp2.0\NM_Challenge_Endpoint.dll
+c:\users\caleb\source\repos\NM_Challenge_Endpoint\NM_Challenge_Endpoint\obj\Debug\netcoreapp2.0\NM_Challenge_Endpoint.pdb
